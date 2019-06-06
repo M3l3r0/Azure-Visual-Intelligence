@@ -1,1 +1,1 @@
-# Azure-Visual-Intelligence
+# Azure Visual Intelligence
